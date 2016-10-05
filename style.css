@@ -1,0 +1,61 @@
+.ui.image.item{
+   width: 100px;
+   height: 100px;
+   border: 0;
+ }
+.ui.right.floated{
+  margin-left: 120px;
+}
+.ui.borderless.topmenu.container.menu{
+  border: none;
+  box-shadow: none;
+  margin-bottom: -10px;
+}
+.column.right.para{
+  color: white;
+  margin-top: 150px;
+  text-align: center;
+}
+.hh{
+  margin-top: 100px;
+}
+
+h2 {
+  font-size: 18px;
+  display: block;
+  margin: 0px;
+  padding-top: 22px;
+  padding-right: 10px;
+  padding-bottom: 12px;
+  padding-left: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+h1 {
+  color: #447998;
+  font-size: 28px;
+  font-weight: bold;
+  margin: 0px;
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+}
+#title {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 5px;
+  padding: 0px;
+  display: block;
+  height: 95px;
+}
+body{
+  background-image: url('http://www.ee.hawaii.edu/gfx/background.jpg');
+  background-repeat: repeat-x;
+}
+#a.blue.item{
+  color: white;
+}
